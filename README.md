@@ -155,14 +155,14 @@ Watch it run live — the same pipeline as a browser demo with you as the
 human approval gate, plus the offer, pricing, and companion article —
 on Vroom's automation demo page:
 
-**[Watch the live agent demo, see the offer, and read the companion article](https://vroomanalytics.com/automation-demo/)**
+**[Watch the live agent demo, see the offer, and read the companion article](https://staging.vroomanalytics.com/automation-demo/)**
 
 ## Monthly peace of mind
 
 Setup is just day one. The **$99/mo care plan** keeps this running —
 monitoring, fixes, and monthly optimization, so you never think about it
 again. Details and signup on the
-**[automation demo page](https://vroomanalytics.com/automation-demo/)**.
+**[automation demo page](https://staging.vroomanalytics.com/automation-demo/)**.
 
 ## License
 
