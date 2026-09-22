@@ -1,5 +1,7 @@
 # AI Agents, RAG Pipelines & Workflow Automation
 
+Built by [Vroom Analytics](https://vroomanalytics.com) — a working example of our [S01 automation service](https://vroomanalytics.com/automation-demo/).
+
 This is a working 5-agent pipeline that reads an incoming inquiry, classifies
 it, drafts a reply, and — only after a human approves it — sends it, with
 idempotent delivery and full logging. No network, no API keys, stdlib +
