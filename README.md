@@ -1,11 +1,18 @@
 # AI Agents, RAG Pipelines & Workflow Automation
 
+![Tests](https://img.shields.io/badge/tests-passing-2ea44f)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.11%2B-3776ab)
+![Agents](https://img.shields.io/badge/agents-5--stage%20pipeline-111827)
+
 Built by [Vroom Analytics](https://vroomanalytics.com) — a working example of our [S01 automation service](https://vroomanalytics.com/automation-demo/).
 
 This is a working 5-agent pipeline that reads an incoming inquiry, classifies
 it, drafts a reply, and — only after a human approves it — sends it, with
 idempotent delivery and full logging. No network, no API keys, stdlib +
 pytest only. Clone it, run the failure drills, steal the patterns.
+
+![AI agents pipeline demo](assets/demo.gif)
 
 ## The problem it solves
 
